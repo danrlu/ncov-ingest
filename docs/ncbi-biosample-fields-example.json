@@ -1,0 +1,185 @@
+{
+    "@access": "public",
+    "@publication_date": "2021-04-05T00:00:00.000",
+    "@last_update": "2021-05-12T02:01:22.743",
+    "@submission_date": "2021-04-16T18:39:08.027",
+    "@id": "18775395",
+    "@accession": "SAMEA8516067",
+    "Ids": {
+        "Id": [
+            {
+                "@db": "BioSample",
+                "@is_primary": "1",
+                "#text": "SAMEA8516067"
+            },
+            {
+                "@db": "SRA",
+                "#text": "SRS8947144"
+            }
+        ]
+    },
+    "Description": {
+        "Title": "Sample from Severe acute respiratory syndrome coronavirus 2",
+        "Organism": {
+            "@taxonomy_id": "2697049",
+            "@taxonomy_name": "Severe acute respiratory syndrome coronavirus 2",
+            "OrganismName": "Severe acute respiratory syndrome coronavirus 2"
+        }
+    },
+    "Owner": {
+        "Name": "EBI"
+    },
+    "Models": {
+        "Model": "Generic"
+    },
+    "Package": {
+        "@display_name": "Generic",
+        "#text": "Generic.1.0"
+    },
+    "Attributes": {
+        "Attribute": [
+            {
+                "@attribute_name": "ENA first public",
+                "#text": "2021-04-05"
+            },
+            {
+                "@attribute_name": "ENA last update",
+                "#text": "2021-04-05"
+            },
+            {
+                "@attribute_name": "ENA-CHECKLIST",
+                "#text": "ERC000033"
+            },
+            {
+                "@attribute_name": "External Id",
+                "#text": "SAMEA8516067"
+            },
+            {
+                "@attribute_name": "INSDC center alias",
+                "#text": "University of Birmingham"
+            },
+            {
+                "@attribute_name": "INSDC center name",
+                "#text": "University of Birmingham"
+            },
+            {
+                "@attribute_name": "INSDC first public",
+                "#text": "2021-04-05T19:21:32Z"
+            },
+            {
+                "@attribute_name": "INSDC last update",
+                "#text": "2021-04-05T19:21:31Z"
+            },
+            {
+                "@attribute_name": "INSDC status",
+                "#text": "public"
+            },
+            {
+                "@attribute_name": "SRA accession",
+                "#text": "ERS6200864"
+            },
+            {
+                "@attribute_name": "Sample Name",
+                "@harmonized_name": "sample_name",
+                "@display_name": "sample name",
+                "#text": "COG-UK/BIRM-BCNBBM"
+            },
+            {
+                "@attribute_name": "Submitter Id",
+                "#text": "COG-UK/BIRM-BCNBBM"
+            },
+            {
+                "@attribute_name": "broker name",
+                "#text": "COVID-19 Genomics UK Consortium"
+            },
+            {
+                "@attribute_name": "collecting institution",
+                "#text": "University of Birmingham"
+            },
+            {
+                "@attribute_name": "collection date",
+                "@harmonized_name": "collection_date",
+                "@display_name": "collection date",
+                "#text": "2021-03-15"
+            },
+            {
+                "@attribute_name": "collector name",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "definition for seropositive sample",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "geographic location (country and/or sea)",
+                "@harmonized_name": "geo_loc_name",
+                "@display_name": "geographic location",
+                "#text": "United Kingdom"
+            },
+            {
+                "@attribute_name": "geographic location (region and locality)",
+                "#text": "England"
+            },
+            {
+                "@attribute_name": "host common name",
+                "@harmonized_name": "host",
+                "@display_name": "host",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "host health state",
+                "@harmonized_name": "host_health_state",
+                "@display_name": "host health state",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "host scientific name",
+                "@harmonized_name": "host",
+                "@display_name": "host",
+                "#text": "Homo sapiens"
+            },
+            {
+                "@attribute_name": "host sex",
+                "@harmonized_name": "host_sex",
+                "@display_name": "host sex",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "host subject id",
+                "@harmonized_name": "host_subject_id",
+                "@display_name": "host subject id",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "isolate",
+                "@harmonized_name": "isolate",
+                "@display_name": "isolate",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "receipt date",
+                "#text": "2021-03-17"
+            },
+            {
+                "@attribute_name": "sample capture status",
+                "#text": "active surveillance in response to outbreak"
+            },
+            {
+                "@attribute_name": "serotype (required for a seropositive sample)",
+                "#text": "not provided"
+            },
+            {
+                "@attribute_name": "title",
+                "#text": "COG-UK/BIRM-BCNBBM"
+            },
+            {
+                "@attribute_name": "virus identifier",
+                "#text": "not provided"
+            }
+        ]
+    },
+    "Status": {
+        "@status": "live",
+        "@when": "2021-04-16T18:39:08.026"
+    }
+}
